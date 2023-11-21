@@ -1,0 +1,45 @@
+body {
+    font-family: "Roboto Mono",
+    monospace;
+    text-align: center;
+    background-image: 
+    url("https://www.pixel4k.com/wp-content/uploads/2019/11/bitcoin-cryptocurrency_1574938958.jpg.webp");
+        background-color: #000000;
+        background-size: cover;
+        background-position: center top;
+        background-repeat: no-repeat;
+        height: 100vh;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+.page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+}
+
+.page-subtitle {
+    width: 200px;
+}
+
+.page-logo {
+    width: 200px;
+}
+
+.alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+body > img {
+    margin: 0 10px;
+}
+
+img {
+    max-height: 250px;
+}
